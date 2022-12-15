@@ -5,10 +5,7 @@ https://youtu.be/qofxcIANQdA
 
 
 This game was made in Unity. To play the game, load the entirety of the assets folder and packages
-into Unity. Then, open Scene1 and the game will be playable. Depending on your monitor size/if you
-want to play with the game maximized/minimized, adjust the "Cam Distance" value under the camera
-follow script that. You can adjust this by clicking on the main camera gameObject under the Scene1
-heirarchy. Then, under the inspector the cam distance value can be adjusted.
+into Unity. Then, open Scene1 and the game will be playable. 
 
 To play the game, click the radioactive symbol on the right of the title scene. To access the
 controls, click on the control panel below the radioactive symbol. There you will see you use WASD
